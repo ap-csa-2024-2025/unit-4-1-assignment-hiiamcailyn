@@ -18,8 +18,8 @@ public class Main
       System.out.println("Please print a number");
       input = sc.nextInt();
       sum +=input; 
-      System.out.println("You gave" + sum);
+      System.out.println("You gave " + sum);
     }
   }
 }
-// if they give me positive numbers add it up, but if they give me -1 print sum
+// if they give me positive numbers add it up, but if they give me -1 print sum2
